@@ -13,5 +13,5 @@ Additionally, a solution_format file is provided, which serves as an example of 
 I have provided the result file for testing data as results.csv and code of same in python
 
 The data can be downloaded from https://bitgrit.net/competition/18
-#Note
+# Note
 Please ensure that you have the necessary environment set up and required dependencies installed to run the provided code and work with the dataset effectively.
